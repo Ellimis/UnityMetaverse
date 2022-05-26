@@ -8,6 +8,8 @@
 ![image](https://user-images.githubusercontent.com/67461878/170028739-724b5ea5-b992-49af-8985-e4857d0d5a20.png)
 
 ## 3일차
+> 강사님의 건강상태로 인한 Oculus Quest 2를 활용한 VR게임 개발하는 방법
+![image](https://user-images.githubusercontent.com/67461878/170494504-cb5816d2-ce64-4ca7-aedd-797b2af929e3.png)
 
 ## 4일차
 ![image](https://user-images.githubusercontent.com/67461878/170493525-69370fd4-0ac0-4ba7-baad-5ab418f543cf.png)
