@@ -1,6 +1,10 @@
 # UnityMetaverse
 유니티로 만드는 메타버스 실습 저장소
 
+## 사용한 기술 및 에셋
+[포톤](https://www.photonengine.com/ko-KR/Photon)
+[PUN 2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)
+
 ## 1일차
 ![image](https://user-images.githubusercontent.com/67461878/169811537-9944a787-a4b9-45bd-ada0-8815cdbbaf7d.png)
 
