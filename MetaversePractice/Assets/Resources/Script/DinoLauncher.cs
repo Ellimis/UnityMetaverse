@@ -13,10 +13,10 @@ public class DinoLauncher : MonoBehaviourPunCallbacks
 
     private void Awake()
     {
+        PlayerPrefs.SetInt("PlayerCount", 0);
         PhotonNetwork.AutomaticallySyncScene = true;
     }
 
-    // Start is called before the first frame update
     void Start()
     {
         
